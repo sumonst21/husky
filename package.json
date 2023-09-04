@@ -67,7 +67,7 @@
     "@types/mkdirp": "^0.5.2",
     "@types/node": "^10.12.9",
     "del": "^3.0.0",
-    "del-cli": "^1.1.0",
+    "del-cli": "^5.1.0",
     "formatree": "^1.0.2",
     "jest": "^23.6.0",
     "mkdirp": "^0.5.1",
